@@ -86,3 +86,17 @@ Resultado:
 Se uma linha for encontrada ($row == 1), o email é armazenado na variável de sessão $_SESSION['email'], concedendo acesso, e o usuário é redirecionado para o Painel (painel.php).
 
 Se nenhuma linha for encontrada, a variável de sessão $_SESSION['nao_autenticado'] é definida como true, e o usuário é redirecionado de volta para a tela de login (index.php) para exibir uma mensagem de erro.
+
+<img width="1906" height="925" alt="image" src="https://github.com/user-attachments/assets/604c4589-9470-4557-81e2-2156cb9f9fae" />
+<img width="1862" height="924" alt="image" src="https://github.com/user-attachments/assets/492d13a8-c361-4488-81fb-504f88515f44" />
+<img width="1891" height="932" alt="image" src="https://github.com/user-attachments/assets/e6e3ba62-ad44-4534-8450-55728c935a70" />
+<img width="1882" height="929" alt="image" src="https://github.com/user-attachments/assets/935785f6-c01a-4c7f-94d6-dd9be5226673" />
+<img width="1895" height="926" alt="image" src="https://github.com/user-attachments/assets/523f1624-b3e7-49c7-b335-ea50bf856871" />
+<img width="1102" height="142" alt="image" src="https://github.com/user-attachments/assets/c504a7ad-c2b0-4739-8094-085669286d5a" />
+<img width="1366" height="737" alt="image" src="https://github.com/user-attachments/assets/563ed8a8-8272-490d-bd35-2f29a0424843" />
+<img width="806" height="63" alt="image" src="https://github.com/user-attachments/assets/82fe76ae-091b-43e8-97ab-8e15d272a9a1" />
+
+
+
+
+
